@@ -1,2 +1,2 @@
 # Timeseries-GANs
-PyTorch implementations of FinGAN and TimeGAN to generate financial time series
+We implement the [TimeGAN model](https://github.com/jsyoon0823/TimeGAN) in PyTorch. 
